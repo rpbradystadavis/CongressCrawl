@@ -1,0 +1,101 @@
+,dw_nominate,member_id,name,party,state,vote_position
+0,0.323,A000360,Lamar Alexander,R,TN,Yes
+1,-0.523,B001230,Tammy Baldwin,D,WI,No
+2,0.533,B001261,John Barrasso,R,WY,Yes
+3,-0.206,B001267,Michael Bennet,D,CO,No
+4,-0.425,B001277,Richard Blumenthal,D,CT,No
+5,0.43,B000575,Roy Blunt,R,MO,Yes
+6,-0.615,B001288,Cory Booker,D,NJ,No
+7,0.401,B001236,John Boozman,R,AR,Yes
+8,-0.438,B000944,Sherrod Brown,D,OH,No
+9,0.453,B001135,Richard M. Burr,R,NC,Yes
+10,-0.292,C000127,Maria Cantwell,D,WA,No
+11,0.26,C001047,Shelley Moore Capito,R,WV,Yes
+12,-0.326,C000141,Benjamin L. Cardin,D,MD,No
+13,-0.174,C000174,Thomas R. Carper,D,DE,No
+14,-0.304,C001070,Bob Casey,D,PA,No
+15,0.452,C001075,Bill Cassidy,R,LA,Yes
+16,0.11,C001035,Susan Collins,R,ME,Yes
+17,-0.243,C001088,Christopher A. Coons,D,DE,No
+18,0.395,C001071,Bob Corker,R,TN,Yes
+19,0.495,C001056,John Cornyn,R,TX,Yes
+20,-0.39,C001113,Catherine Cortez Masto,D,NV,No
+21,0.61,C001095,Tom Cotton,R,AR,Yes
+22,0.509,C000880,Michael D. Crapo,R,ID,Yes
+23,0.82,C001098,Ted Cruz,R,TX,Yes
+24,0.544,D000618,Steve Daines,R,MT,Yes
+25,-0.119,D000607,Joe Donnelly,D,IN,No
+26,-0.319,D000622,Tammy Duckworth,D,IL,No
+27,-0.363,D000563,Richard J. Durbin,D,IL,No
+28,0.54,E000285,Michael B. Enzi,R,WY,Yes
+29,0.518,E000295,Joni Ernst,R,IA,Yes
+30,-0.269,F000062,Dianne Feinstein,D,CA,No
+31,0.467,F000463,Deb Fischer,R,NE,Yes
+32,0.855,F000444,Jeff Flake,R,AZ,Yes
+33,0.454,G000562,Cory Gardner,R,CO,Yes
+34,-0.409,G000555,Kirsten E. Gillibrand,D,NY,No
+35,0.408,G000359,Lindsey Graham,R,SC,Yes
+36,0.343,G000386,Charles E. Grassley,R,IA,Yes
+37,-0.69,H001075,Kamala Harris,D,CA,No
+38,-0.26,H001076,Margaret Hassan,D,NH,No
+39,0.382,H000338,Orrin G. Hatch,R,UT,Yes
+40,-0.302,H001046,Martin Heinrich,D,NM,No
+41,-0.121,H001069,Heidi Heitkamp,D,ND,No
+42,0.464,H001041,Dean Heller,R,NV,Yes
+43,-0.485,H001042,Mazie K. Hirono,D,HI,No
+44,0.34,H001061,John Hoeven,R,ND,Yes
+45,0.424,H001079,Cindy Hyde-Smith,R,MS,Yes
+46,0.552,I000024,James M. Inhofe,R,OK,Yes
+47,0.403,I000055,Johnny Isakson,R,GA,Yes
+48,0.602,J000293,Ron Johnson,R,WI,Yes
+49,-0.145,J000300,Doug Jones,D,AL,No
+50,-0.234,K000384,Tim Kaine,D,VA,No
+51,0.463,K000393,John Kennedy,R,LA,Yes
+52,-0.151,K000383,Angus King,I,ME,No
+53,-0.245,K000367,Amy Klobuchar,D,MN,No
+54,0.575,L000575,James Lankford,R,OK,Yes
+55,-0.37,L000174,Patrick J. Leahy,D,VT,No
+56,0.922,L000577,Mike Lee,R,UT,Yes
+57,-0.057,M001183,Joe Manchin III,D,WV,Yes
+58,-0.504,M000133,Edward J. Markey,D,MA,No
+59,0.381,M000303,John McCain,R,AZ,Not Voting
+60,-0.144,M001170,Claire McCaskill,D,MO,No
+61,0.403,M000355,Mitch McConnell,R,KY,Yes
+62,-0.364,M000639,Robert Menendez,D,NJ,No
+63,-0.479,M001176,Jeff Merkley,D,OR,No
+64,0.414,M000934,Jerry Moran,R,KS,Yes
+65,0.207,M001153,Lisa Murkowski,R,AK,Yes
+66,-0.306,M001169,Christopher S. Murphy,D,CT,No
+67,-0.342,M001111,Patty Murray,D,WA,No
+68,-0.193,N000032,Bill Nelson,D,FL,No
+69,0.879,P000603,Rand Paul,R,KY,Yes
+70,0.611,P000612,David Perdue,R,GA,Yes
+71,-0.237,P000595,Gary Peters,D,MI,No
+72,0.374,P000449,Rob Portman,R,OH,Yes
+73,-0.381,R000122,Jack Reed,D,RI,No
+74,0.637,R000584,Jim Risch,R,ID,Yes
+75,0.414,R000307,Pat Roberts,R,KS,Yes
+76,0.39,R000605,Mike Rounds,R,SD,Yes
+77,0.577,R000595,Marco Rubio,R,FL,Yes
+78,-0.52,S000033,Bernard Sanders,I,VT,No
+79,0.813,S001197,Ben Sasse,R,NE,Yes
+80,-0.415,S001194,Brian Schatz,D,HI,No
+81,-0.351,S000148,Charles E. Schumer,D,NY,No
+82,0.653,S001184,Tim Scott,R,SC,Yes
+83,-0.253,S001181,Jeanne Shaheen,D,NH,No
+84,0.431,S000320,Richard C. Shelby,R,AL,Yes
+85,-0.334,S001203,Tina Smith,D,MN,No
+86,-0.33,S000770,Debbie Stabenow,D,MI,No
+87,0.466,S001198,Dan Sullivan,R,AK,Yes
+88,-0.21,T000464,Jon Tester,D,MT,No
+89,0.41,T000250,John Thune,R,SD,Yes
+90,0.426,T000476,Thom Tillis,R,NC,Yes
+91,0.638,T000461,Patrick J. Toomey,R,PA,Yes
+92,-0.453,U000039,Tom Udall,D,NM,No
+93,-0.391,V000128,Chris Van Hollen,D,MD,No
+94,-0.193,W000805,Mark Warner,D,VA,No
+95,-0.766,W000817,Elizabeth Warren,D,MA,No
+96,-0.401,W000802,Sheldon Whitehouse,D,RI,No
+97,0.377,W000437,Roger Wicker,R,MS,Yes
+98,-0.321,W000779,Ron Wyden,D,OR,No
+99,0.483,Y000064,Todd Young,R,IN,Yes
